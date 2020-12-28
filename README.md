@@ -47,6 +47,5 @@ void loop() {</p>
   delay(3000) // after every 3 seconds the mobile no. entered above will recieve a new message showing the current temperature</p>
 }</p>
 <h2> The circuit is as follows : </p>
-<img src="https://github.com/teamaveonracing/teamaveonracing/issues/1
-" width="641" height="456"/>
+<img src="circuit.png" width="641" height="456"/>
           
